@@ -1,0 +1,17 @@
+.canvas {
+    height: 600px;
+    width: 600px;
+    border: solid;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+button {
+    margin-bottom: 10px;
+}
+
+.square {
+    height: 37.5px;
+    width: 37.5px;
+}
+
